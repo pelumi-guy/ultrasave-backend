@@ -1,0 +1,18 @@
+{
+  "source": "youtube",
+  "url_hash": "89803ffad14356aba9665eb8493bb9a2dad5175275ab072a4335f4695c06cfec",
+  "success": true,
+  "items": [
+    {
+      "id": "video-1",
+      "name": "youtube-01.mp4",
+      "mime": "video/mp4",
+      "kind": "video",
+      "bytes": 14768229,
+      "duration": 168.99,
+      "has_audio": true,
+      "sha256": "987bcf8d599856244c2d878f40ede2c6ab24a0d3c6947bc9f4e1b0bd248a9d3d"
+    }
+  ],
+  "seconds": 188.03
+}

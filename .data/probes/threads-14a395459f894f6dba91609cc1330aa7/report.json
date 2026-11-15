@@ -1,0 +1,10 @@
+{
+  "source": "threads",
+  "url_hash": "7b387fc6a50167038ff923e7c5e8b2ec6d072632b69291e86742aa8db9915e3c",
+  "success": false,
+  "error": {
+    "code": "NO_MEDIA",
+    "message": "This Threads post has no downloadable video."
+  },
+  "seconds": 3.62
+}

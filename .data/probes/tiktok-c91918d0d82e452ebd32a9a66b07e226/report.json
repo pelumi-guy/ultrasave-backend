@@ -1,0 +1,18 @@
+{
+  "source": "tiktok",
+  "url_hash": "9be27448979ceef8faff05e6154da1d30e0b657aded1c5b28ebda4a88b37487c",
+  "success": true,
+  "items": [
+    {
+      "id": "video-1",
+      "name": "tiktok-01.mp4",
+      "mime": "video/mp4",
+      "kind": "video",
+      "bytes": 466800,
+      "duration": 10.08,
+      "has_audio": true,
+      "sha256": "4a45150e026497b74c74ed0af286d491c1cc4342ad7a3d2f6a43a4790d2baf43"
+    }
+  ],
+  "seconds": 13.85
+}

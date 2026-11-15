@@ -1,0 +1,18 @@
+{
+  "source": "twitter",
+  "url_hash": "628189f687bed114d3582902c02dd2326846e22bb87e1d52566a14a7416c5f47",
+  "success": true,
+  "items": [
+    {
+      "id": "video-1",
+      "name": "twitter-01.mp4",
+      "mime": "video/mp4",
+      "kind": "video",
+      "bytes": 8008871,
+      "duration": 170.2,
+      "has_audio": true,
+      "sha256": "13f9d86fa90ee1e7d54d782d72921a31f34dc50057b9e1eb35ce17a2e3ed2ef5"
+    }
+  ],
+  "seconds": 11.99
+}

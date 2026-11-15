@@ -1,0 +1,18 @@
+{
+  "source": "threads",
+  "url_hash": "7b387fc6a50167038ff923e7c5e8b2ec6d072632b69291e86742aa8db9915e3c",
+  "success": true,
+  "items": [
+    {
+      "id": "video-1",
+      "name": "threads-01.mp4",
+      "mime": "video/mp4",
+      "kind": "video",
+      "bytes": 1269451,
+      "duration": 15.79,
+      "has_audio": true,
+      "sha256": "204e8a39c80c2a9158d838b226c30b505449b2a10d9b3f42c8738c179b9a557b"
+    }
+  ],
+  "seconds": 6.57
+}
