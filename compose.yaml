@@ -21,7 +21,8 @@ services:
       ULTRASAVE_MAX_MEDIA_BYTES: ${ULTRASAVE_MAX_MEDIA_BYTES:-157286400}
       ULTRASAVE_MAX_DURATION_SECONDS: ${ULTRASAVE_MAX_DURATION_SECONDS:-900}
       ULTRASAVE_PREPARATION_TIMEOUT: ${ULTRASAVE_PREPARATION_TIMEOUT:-240}
-    ports: ["127.0.0.1:8000:8000"]
+    # Coolify's proxy reaches the container directly through its Docker network.
+    expose: ["8000"]
     volumes: [artifacts:/app/.data]
     read_only: true
     tmpfs: [/tmp]
